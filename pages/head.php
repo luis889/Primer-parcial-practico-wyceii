@@ -12,6 +12,7 @@
 	
 	<link href="css/style.css" rel="stylesheet">
 	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="js/bootstrap.js" language="javascript" type="text/javascript"></script>
 	<script src="js/bootstrap.min.js" language="javascript" type="text/javascript"></script>
 	<script src="js/npm.js" language="javascript" type="text/javascript"></script>

@@ -1,0 +1,17 @@
+.start.carousel-inner > .item > img,
+ .start .carousel-inner > .item > a > img {
+      width: 100%;
+	  height:350px;
+      margin: auto;
+  }
+  
+ .start .left.carousel-control {
+    right: 0px;
+    left: inherit;
+}
+
+footer{
+	background-color: #222;
+	color:#fff;
+	
+}

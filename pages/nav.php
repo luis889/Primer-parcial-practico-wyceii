@@ -1,13 +1,14 @@
 <div class="container">
-  <nav class="navbar navbar-inverse">
+ <br>
+ <nav class="navbar navbar-inverse">
     <div class="navbar-header">
     	<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
-			<span class="sr-only">Toggle navigation</span>
+			<span class="sr-only">Navegación Toggle</span>
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</button>
-		<a class="navbar-brand" href="#">My Store</a>
+		<a class="navbar-brand" href="#">Mi tienda</a>
 	</div>
 	
 	<div class="collapse navbar-collapse js-navbar-collapse">
@@ -17,42 +18,44 @@
 				<ul class="dropdown-menu mega-dropdown-menu">
 					<li class="col-sm-3">
 						<ul>
-							<li class="dropdown-header">Men Collection</li>                            
+							<li class="dropdown-header">Hombres Colección</li>                            
                             <div id="menCollection" class="carousel slide" data-ride="carousel">
-                              <div class="carousel-inner">
+                              <div class=" carousel-inner">
                                 <div class="item active">
                                     <a href="#"><img src="http://placehold.it/254x150/ff3546/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 1"></a>
-                                    <h4><small>Summer dress floral prints</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">49,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>       
+                                    <h4><small>Vestido de verano estampados florales</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">$49,99</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>       
                                 </div><!-- End Item -->
                                 <div class="item">
                                     <a href="#"><img src="http://placehold.it/254x150/3498db/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 2"></a>
-                                    <h4><small>Gold sandals with shiny touch</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">9,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
+                                    <h4><small>Sandalias de oro con toque brillante</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">$9,99</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
                                 </div><!-- End Item -->
                                 <div class="item">
                                     <a href="#"><img src="http://placehold.it/254x150/2ecc71/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 3"></a>
-                                    <h4><small>Denin jacket stamped</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">49,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>      
+                                    <h4><small>Chaqueta denim estampado</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">$49,99</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>      
                                 </div><!-- End Item -->                                
                               </div><!-- End Carousel Inner -->
                               <!-- Controls -->
+							  <div class="navr">
                               <a class="left carousel-control" href="#menCollection" role="button" data-slide="prev">
                                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
+                                <span class="sr-only">Previo</span>
                               </a>
                               <a class="right carousel-control" href="#menCollection" role="button" data-slide="next">
                                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
+                                <span class="sr-only">Siguiente</span>
                               </a>
+							  </div>
                             </div><!-- /.carousel -->
                             <li class="divider"></li>
-                            <li><a href="#">View all Collection <span class="glyphicon glyphicon-chevron-right pull-right"></span></a></li>
+                            <li><a href="#">Ver todos Colección<span class="glyphicon glyphicon-chevron-right pull-right"></span></a></li>
 						</ul>
 					</li>
 					<li class="col-sm-3">
 						<ul>
-							<li class="dropdown-header">Features</li>
+							<li class="dropdown-header">Características</li>
 							<li><a href="#">Auto Carousel</a></li>
                             <li><a href="#">Carousel Control</a></li>
                             <li><a href="#">Left & Right Navigation</a></li>
@@ -139,6 +142,7 @@
                                 </div><!-- End Item -->                                
                               </div><!-- End Carousel Inner -->
                               <!-- Controls -->
+							  <div class="navr">
                               <a class="left carousel-control" href="#womenCollection" role="button" data-slide="prev">
                                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                                 <span class="sr-only">Previous</span>
@@ -147,6 +151,7 @@
                                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                                 <span class="sr-only">Next</span>
                               </a>
+							  </div>
                             </div><!-- /.carousel -->
                             <li class="divider"></li>
                             <li><a href="#">View all Collection <span class="glyphicon glyphicon-chevron-right pull-right"></span></a></li>
@@ -154,20 +159,20 @@
 					</li>
 				</ul>				
 			</li>
-            <li><a href="#">Store locator</a></li>
+            <li><a href="#">Localizador de tiendas</a></li>
 		</ul>
         <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">My account <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Mi cuenta<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
-            <li><a href="#">Action</a></li>
+            <li><a href="#">Acción</a></li>
             <li><a href="#">Another action</a></li>
             <li><a href="#">Something else here</a></li>
             <li class="divider"></li>
-            <li><a href="#">Separated link</a></li>
+            <li><a href="#">Enlace separado</a></li>
           </ul>
         </li>
-        <li><a href="#">My cart (0) items</a></li>
+        <li><a href="#">Su carrito (0) productos</a></li>
       </ul>
 	</div><!-- /.nav-collapse -->
   </nav>

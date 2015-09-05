@@ -34,18 +34,18 @@ body {
   line-height: 30px;
 }
 
-.carousel-control {
+.navr .carousel-control {
   width: 30px;
-  height: 30px;
-  top: -35px;
+  height: 120px;
+ background-image: none;
 
 }
-.left.carousel-control {
-  right: 30px;
+.navr .left.carousel-control{
+
   left: inherit;
 }
-.carousel-control .glyphicon-chevron-left, 
-.carousel-control .glyphicon-chevron-right {
+.navr .carousel-control .glyphicon-chevron-left , 
+.navr .carousel-control .glyphicon-chevron-right {
   font-size: 12px;
   background-color: #fff;
   line-height: 30px;
