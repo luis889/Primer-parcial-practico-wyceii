@@ -1,47 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+<html lang="es">
 
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+<!--head-->
+<?php include 'pages/head.php';?>
+<!--Fin head-->
+<body>
+<!--Menu-->
+ <?php include 'pages/nav.php';?>
+<!--Fin Menu-->
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-  <nav class="navbar navbar-default navbar-static-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">Project name</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <form class="navbar-form navbar-right">
-            <div class="form-group">
-              <input type="text" placeholder="Email" class="form-control">
-            </div>
-            <div class="form-group">
-              <input type="password" placeholder="Password" class="form-control">
-            </div>
-            <button type="submit" class="btn btn-success">Sign in</button>
-          </form>
-        </div><!--/.navbar-collapse -->
-      </div>
-    </nav>
 	<div class="jumbotron">
       <div class="container">
         <h1>Hello, world!</h1>
@@ -83,11 +50,182 @@
       </div>
 	  
     </div>
-		  <h1>Hello, world!</h1>
  <br>
-	<footer>
-        <p>© Company 2014</p>
-      </footer>
+ <div class="container-fluid">
+<div class="row-fluid">
+<div class="span12">
+
+    <div class="page-header">
+        <h3>Bootstrap</h3>
+        <p>Responsive Moving Box Carousel Demo</p>
+    </div>
+        
+    <div class="carousel slide" id="myCarousel">
+        <div class="carousel-inner">
+            <div class="item active">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                    </ul>
+              </div><!-- /Slide1 --> 
+            <div class="item">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                    </ul>
+              </div><!-- /Slide2 --> 
+            <div class="item">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <a href="#"><img src="http://placehold.it/360x240" alt=""></a>
+                            </div>
+                            <div class="caption">
+                                <h4>Praesent commodo</h4>
+                				<p>Nullam Condimentum Nibh Etiam Sem</p>
+                                <a class="btn btn-mini" href="#">&raquo; Read More</a>
+                            </div>
+                        </li>
+                    </ul>
+              </div><!-- /Slide3 --> 
+        </div>
+        
+        <div class="control-box">                            
+            <a data-slide="prev" href="#myCarousel" class="carousel-control left">‹</a>
+            <a data-slide="next" href="#myCarousel" class="carousel-control right">›</a>
+        </div><!-- /.control-box -->   
+                              
+    </div><!-- /#myCarousel -->
+        
+</div><!-- /.span12 -->          
+</div><!-- /.row --> 
+</div><!-- /.container -->
+
+                            
+<!-- Delete This -->                        
+<div class="footer">
+<a href="http://simonalex.com/">&hearts; Redfrost</a> | <a href="http://twitter.github.com/bootstrap/">Get Bootstrap</a> | <a href="http://placehold.it/">Get Placeholder</a>   
+    <p class="right">&lsaquo; Resize Window &rsaquo;</p>
+    <p>&nbsp;</p>
+    <p><strong>*VISIT THIS LINK FOR IE9 FIX: <a href="http://codepen.io/redfrost/pen/yKAmc"  target="_blank">http://codepen.io/redfrost/pen/yKAmc</a>
+        
+        
+<strong></p>    
+</div>
+ 
+ <!--Pie de pagina -->
+<?php include 'pages/footer.php';?>
+<!--Fin Pie de pagina -->
+
+
+
+
 		   </div>
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
