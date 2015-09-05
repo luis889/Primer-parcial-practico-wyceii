@@ -5,8 +5,17 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title></title>
     <!-- Bootstrap -->
+	<link rel="stylesheet" type="text/css" href="css/nav.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+	
 	<link href="css/style.css" rel="stylesheet">
+	
+	<script src="js/bootstrap.js" language="javascript" type="text/javascript"></script>
+	<script src="js/bootstrap.min.js" language="javascript" type="text/javascript"></script>
+	<script src="js/npm.js" language="javascript" type="text/javascript"></script>
+	 <script src="js/menu.js" language="javascript" type="text/javascript"></script>
 	 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
