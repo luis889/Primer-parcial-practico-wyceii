@@ -8,103 +8,33 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</button>
-		<a class="navbar-brand" href="#">Mi tienda</a>
+		<a class="navbar-brand" href="/Primer-parcial-practico-wyceii">Mi tienda</a>
 	</div>
 	
 	<div class="collapse navbar-collapse js-navbar-collapse">
 		<ul class="nav navbar-nav">
-			<li class="dropdown mega-dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Men <span class="caret"></span></a>				
-				<ul class="dropdown-menu mega-dropdown-menu">
-					<li class="col-sm-3">
-						<ul>
-							<li class="dropdown-header">Hombres Colección</li>                            
-                            <div id="menCollection" class="carousel slide" data-ride="carousel">
-                              <div class=" carousel-inner">
-                                <div class="item active">
-                                    <a href="#"><img src="http://placehold.it/254x150/ff3546/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 1"></a>
-                                    <h4><small>Vestido de verano estampados florales</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">$49,99</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>       
-                                </div><!-- End Item -->
-                                <div class="item">
-                                    <a href="#"><img src="http://placehold.it/254x150/3498db/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 2"></a>
-                                    <h4><small>Sandalias de oro con toque brillante</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">$9,99</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
-                                </div><!-- End Item -->
-                                <div class="item">
-                                    <a href="#"><img src="http://placehold.it/254x150/2ecc71/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 3"></a>
-                                    <h4><small>Chaqueta denim estampado</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">$49,99</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>      
-                                </div><!-- End Item -->                                
-                              </div><!-- End Carousel Inner -->
-                              <!-- Controls -->
-							  <div class="navr">
-                              <a class="left carousel-control" href="#menCollection" role="button" data-slide="prev">
-                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                <span class="sr-only">Previo</span>
-                              </a>
-                              <a class="right carousel-control" href="#menCollection" role="button" data-slide="next">
-                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                <span class="sr-only">Siguiente</span>
-                              </a>
-							  </div>
-                            </div><!-- /.carousel -->
-                            <li class="divider"></li>
-                            <li><a href="#">Ver todos Colección<span class="glyphicon glyphicon-chevron-right pull-right"></span></a></li>
-						</ul>
-					</li>
-					<li class="col-sm-3">
-						<ul>
-							<li class="dropdown-header">Características</li>
-							<li><a href="#">Auto Carousel</a></li>
-                            <li><a href="#">Carousel Control</a></li>
-                            <li><a href="#">Left & Right Navigation</a></li>
-							<li><a href="#">Four Columns Grid</a></li>
-							<li class="divider"></li>
-							<li class="dropdown-header">Fonts</li>
-                            <li><a href="#">Glyphicon</a></li>
-							<li><a href="#">Google Fonts</a></li>
-						</ul>
-					</li>
-					<li class="col-sm-3">
-						<ul>
-							<li class="dropdown-header">Plus</li>
-							<li><a href="#">Navbar Inverse</a></li>
-							<li><a href="#">Pull Right Elements</a></li>
-							<li><a href="#">Coloured Headers</a></li>                            
-							<li><a href="#">Primary Buttons & Default</a></li>							
-						</ul>
-					</li>
-					<li class="col-sm-3">
-						<ul>
-							<li class="dropdown-header">Much more</li>
-                            <li><a href="#">Easy to Customize</a></li>
-							<li><a href="#">Calls to action</a></li>
-							<li><a href="#">Custom Fonts</a></li>
-							<li><a href="#">Slide down on Hover</a></li>                         
-						</ul>
-					</li>
-				</ul>				
-			</li>
+		 <li><a href="#">Calzado</a></li>
             <li class="dropdown mega-dropdown">
-    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Women <span class="caret"></span></a>				
+    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Cuidado del calzado<span class="caret"></span></a>				
 				<ul class="dropdown-menu mega-dropdown-menu">
 					<li class="col-sm-3">
     					<ul>
-							<li class="dropdown-header">Features</li>
+							<li class="dropdown-header">Tacón Narrow</li>
 							<li><a href="#">Auto Carousel</a></li>
                             <li><a href="#">Carousel Control</a></li>
                             <li><a href="#">Left & Right Navigation</a></li>
 							<li><a href="#">Four Columns Grid</a></li>
+							<!--
 							<li class="divider"></li>
 							<li class="dropdown-header">Fonts</li>
                             <li><a href="#">Glyphicon</a></li>
 							<li><a href="#">Google Fonts</a></li>
+							-->
 						</ul>
 					</li>
 					<li class="col-sm-3">
 						<ul>
-							<li class="dropdown-header">Plus</li>
+							<li class="dropdown-header">Tacón Classic</li>
 							<li><a href="#">Navbar Inverse</a></li>
 							<li><a href="#">Pull Right Elements</a></li>
 							<li><a href="#">Coloured Headers</a></li>                            
@@ -113,7 +43,7 @@
 					</li>
 					<li class="col-sm-3">
 						<ul>
-							<li class="dropdown-header">Much more</li>
+							<li class="dropdown-header">Tacón Wide</li>
                             <li><a href="#">Easy to Customize</a></li>
 							<li><a href="#">Calls to action</a></li>
 							<li><a href="#">Custom Fonts</a></li>
@@ -122,7 +52,7 @@
 					</li>
                     <li class="col-sm-3">
     					<ul>
-							<li class="dropdown-header">Women Collection</li>                            
+							<li class="dropdown-header">Nuestros Productos</li>                            
                             <div id="womenCollection" class="carousel slide" data-ride="carousel">
                               <div class="carousel-inner">
                                 <div class="item active">
@@ -154,12 +84,14 @@
 							  </div>
                             </div><!-- /.carousel -->
                             <li class="divider"></li>
-                            <li><a href="#">View all Collection <span class="glyphicon glyphicon-chevron-right pull-right"></span></a></li>
+                            <li><a href="#">Vea Nuestros Productos<span class="glyphicon glyphicon-chevron-right pull-right"></span></a></li>
 						</ul>
 					</li>
 				</ul>				
 			</li>
-            <li><a href="#">Localizador de tiendas</a></li>
+            <li><a href="#">Acerca de nosotros</a></li>
+			<li><a href="contact-us.php">Contactenos</a></li>
+			
 		</ul>
         <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">

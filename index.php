@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 
 <!--head-->
 <?php include 'pages/head.php';?>
