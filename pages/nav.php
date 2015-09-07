@@ -8,22 +8,22 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</button>
-		<a class="navbar-brand" href="/Primer-parcial-practico-wyceii">Mi tienda</a>
+		<a class="navbar-brand" href="index.php  ?>">Mi tienda</a>
 	</div>
 	
 	<div class="collapse navbar-collapse js-navbar-collapse">
 		<ul class="nav navbar-nav">
 		 <li><a href="#">Calzado</a></li>
             <li class="dropdown mega-dropdown">
-    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Estilos<span class="caret"></span></a>				
+    			<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Estilos<span class="caret"></span></a>				
 				<ul class="dropdown-menu mega-dropdown-menu">
 					<li class="col-sm-3">
     					<ul>
 							<li class="dropdown-header">Hombre</li>
-							<li><a href="#">Zapatos Casuales</a></li>
+							<li><a href="#">Zapato casuales</a></li>
                             <li><a href="#">Tenis</a></li>
                             <li><a href="#">Deportivos</a></li>
-							<li><a href="#">Zapatos de Vestir</a></li>
+							<li><a href="#">Zapatos de vestir</a></li>
 							<!--
 							<li class="divider"></li>
 							<li class="dropdown-header">Fonts</li>
@@ -38,37 +38,37 @@
 							<li><a href="#">Sandalias</a></li>
 							<li><a href="#">Tenis</a></li>
 							<li><a href="#">Zapatillas</a></li>                            
-							<li><a href="#">Zapatos de Vestir</a></li>							
+							<li><a href="#">Zapatos de vestir</a></li>							
 						</ul>
 					</li>
 					<li class="col-sm-3">
 						<ul>
-							<li class="dropdown-header">Niños/as</li>
-                            <li><a href="#">Tenis</a></li>
-							<li><a href="#">Zapatillas</a></li>
+							<li class="dropdown-header">Niño/as</li>
+                            <li><a href="#">Deportivos</a></li>
 							<li><a href="#">Sandalias</a></li>
-							<li><a href="#">Zapatos de Vestir</a></li>                         
+							<li><a href="#">Nuevos estilos</a></li>
+							<li><a href="#"> Zapatillas</a></li>                         
 						</ul>
 					</li>
                     <li class="col-sm-3">
     					<ul>
-							<li class="dropdown-header">Nuestros Productos</li>                            
+							<li class="dropdown-header">Productos y Ofertas</li>                            
                             <div id="womenCollection" class="carousel slide" data-ride="carousel">
                               <div class="carousel-inner">
                                 <div class="item active">
-                                    <a href="#"><img src="http://placehold.it/254x150/3498db/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 1"></a>
-                                    <h4><small>Summer dress floral prints</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">49,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>       
+                                    <a href="#"><img src="img/mejor.png" class="img-responsive" alt="product 1"></a>
+                                    <h4><small>Tenis Vans</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">49,99 $</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>       
                                 </div><!-- End Item -->
                                 <div class="item">
-                                    <a href="#"><img src="http://placehold.it/254x150/ff3546/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 2"></a>
-                                    <h4><small>Gold sandals with shiny touch</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">9,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
+                                    <a href="#"><img src="img/otro.png" class="img-responsive" alt="product 2"></a>
+                                    <h4><small>Liquidacion</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">9,99 $</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
                                 </div><!-- End Item -->
                                 <div class="item">
-                                    <a href="#"><img src="http://placehold.it/254x150/2ecc71/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 3"></a>
-                                    <h4><small>Denin jacket stamped</small></h4>                                        
-                                    <button class="btn btn-primary" type="button">49,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>      
+                                    <a href="#"><img src="img/niñas.png" class="img-responsive" alt="product 3"></a>
+                                    <h4><small>Oferta 3x1</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">49,99 $</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>      
                                 </div><!-- End Item -->                                
                               </div><!-- End Carousel Inner -->
                               <!-- Controls -->
@@ -89,8 +89,8 @@
 					</li>
 				</ul>				
 			</li>
-            <li><a href="#">Acerca de nosotros</a></li>
-			<li><a href="contact-us.php">Contactenos</a></li>
+            <li><a href="#">Quienes Somos</a></li>
+			<li><a href="contact-us.php"><span class="glyphicon glyphicon-phone-alt">  Contactenos</a></li>
 			
 		</ul>
         <ul class="nav navbar-nav navbar-right">

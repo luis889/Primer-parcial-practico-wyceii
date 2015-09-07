@@ -14,14 +14,13 @@
   <div class="row contact-us">
       <div id="map-outer" class="col-md-12">
           <div id="address" class="col-md-4">
-            <h2>Nuestra ubicación</h2>
+            <h2>Nuestra ubicacion</h2>
             <address>
-            <strong>Peggy Guggenheim Collection</strong><br>
-                Dorsoduro, 701-704<br>
-                30123<br>
-                Venezia<br>
-                Italia<br>
-                <abbr>P:</abbr> +39 041 240 5411
+            <strong>El Salvador</strong><br>
+                San Miguel, av.Gerardo Barrios poligono #14<br>
+                Correo:nadiesequedasinzapato@gmail.com<br>
+               
+                <abbr>Tel.</abbr> +50322247666
            </address>
           </div>
         <div id="map-container" class="col-md-8">
@@ -37,10 +36,10 @@
   <div class="row">
   <form class="form-horizontal" name="commentform">
     <div class="form-group">
-        <div class="col-md-4">
+        <div class="col-md-4"> Nombre
             <input type="text" class="form-control" id="first_name" name="first_name" placeholder="Nombre"/>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4">Apellidos
             <input type="text" class="form-control" id="last_name" name="last_name" placeholder="Apellido"/>
         </div>
         <div class="col-md-4 input-group">
