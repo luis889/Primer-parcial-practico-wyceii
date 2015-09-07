@@ -25,6 +25,9 @@
       <div class="item active " >
         <img src="../img/117.jpg" alt="Chania" width="460" height="345">
       </div>
+      <div class="item "  >
+        <img src="../img/logo.jpg" alt="Chania" width="460" height="345" align="center">
+      </div>
 
       <div class="item">
         <img src="../img/cuatro.jpg" alt="Chania" width="460" height="345">
@@ -147,13 +150,13 @@
                     <!--/item-->
                     <div class="item active">
                         <div class="row">
-                            <div class="col-xs-3"><a href="#"><img src="../img/descarga (4).jpg" alt="Image" width="257" height="232" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/descarga (4).jpg" alt="Image" width="257" height="232" class="img-responsive"></a>
 
                       </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/descarga (6).jpg" alt="Image" width="258" height="275" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/descarga (6).jpg" alt="Image" width="258" height="275" class="img-responsive"></a>
 
                           </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/descarga.jpg" alt="Image" width="259" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/descarga.jpg" alt="Image" width="259" class="img-responsive"></a>
 
                           </div>
                             <div class="col-xs-3"><a href="#"><img src="../img/images (2).jpg" alt="Image" width="259" class="img-responsive"></a>
