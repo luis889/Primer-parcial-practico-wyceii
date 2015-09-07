@@ -14,7 +14,7 @@
   <div class="row contact-us">
       <div id="map-outer" class="col-md-12">
           <div id="address" class="col-md-4">
-            <h2>Nuestra ubicación</h2>
+            <h2>Nuestra ubicaci&oacute;n</h2>
             <address>
             <strong>Peggy Guggenheim Collection</strong><br>
                 Dorsoduro, 701-704<br>
@@ -45,12 +45,12 @@
         </div>
         <div class="col-md-4 input-group">
         <span class="input-group-addon">@</span>
-            <input type="email" class="form-control" id="email" name="email" placeholder="Dirección de correo electrónico"/>
+            <input type="email" class="form-control" id="email" name="email" placeholder="Direcci&oacute;n de correo electr&oacute;nico"/>
         </div>
     </div>
     <div class="form-group">
         <div class="col-md-12">
-            <textarea rows="6" class="form-control" id="comments" name="comments" placeholder="Su pregunta o comentario aquí"></textarea>
+            <textarea rows="6" class="form-control" id="comments" name="comments" placeholder="Su pregunta o comentario aqu&iacute;"></textarea>
         </div>
     </div>
     <div class="form-group">

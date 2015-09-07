@@ -56,17 +56,17 @@
                             <div id="womenCollection" class="carousel slide" data-ride="carousel">
                               <div class="carousel-inner">
                                 <div class="item active">
-                                    <a href="#"><img src="img/mejor.png" class="img-responsive" alt="product 1"></a>
+                                    <a href="#"><img src="../img/mejor.png" class="img-responsive" alt="product 1"></a>
                                     <h4><small>Tenis Vans</small></h4>                                        
                                     <button class="btn btn-primary" type="button">49,99 $</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>       
                                 </div><!-- End Item -->
                                 <div class="item">
-                                    <a href="#"><img src="img/otro.png" class="img-responsive" alt="product 2"></a>
+                                    <a href="#"><img src="../img/otro.png" class="img-responsive" alt="product 2"></a>
                                     <h4><small>Liquidacion</small></h4>                                        
                                     <button class="btn btn-primary" type="button">9,99 $</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
                                 </div><!-- End Item -->
                                 <div class="item">
-                                    <a href="#"><img src="img/niñas.png" class="img-responsive" alt="product 3"></a>
+                                    <a href="#"><img src="../img/niñas.png" class="img-responsive" alt="product 3"></a>
                                     <h4><small>Oferta 3x1</small></h4>                                        
                                     <button class="btn btn-primary" type="button">49,99 $</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>      
                                 </div><!-- End Item -->                                
