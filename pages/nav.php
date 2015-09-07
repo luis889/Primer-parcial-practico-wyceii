@@ -8,7 +8,7 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</button>
-		<a class="navbar-brand" href="index.php  ?>">Mi tienda</a>
+		<a class="navbar-brand" href="../">Mi tienda</a>
 	</div>
 	
 	<div class="collapse navbar-collapse js-navbar-collapse">
