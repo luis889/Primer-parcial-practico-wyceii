@@ -134,10 +134,24 @@
   <div class="col-md-3">
   <!--Cantidad a obtener -->
  <div class="cart">
-        <div class="product-amount">Cantidad:             
-          <input type="button" class="dec" value=" "/>
-          <input type="text" name="quantity" size="2" class="i-d-quantity input-mini" value="1"/>
-          <input type="button" class="inc" value=" "/>
+        <div class="product-amount">Cantidad:  
+   
+           <script  type="text/javascript">
+		   function inc() {  
+		   if (document.getElementById("cantidad").value >= 1) {
+            var valor = parseInt( document.getElementById("cantidad").value);
+		   document.getElementById("cantidad").value = valor + 1;
+           }
+           }
+			function dec(){
+		   if (document.getElementById("cantidad").value > 1) {
+           document.getElementById("cantidad").value -= 1;
+           }
+            }
+           </script>   
+          <input type="button" class="dec" value=" " onclick="dec()"/>
+          <input type="text" id="cantidad" name="quantity" size="2" class="i-d-quantity input-mini" value="1"/>
+          <input type="button" class="inc" value=" " onclick="inc()" />
 		  <br>
         </div>
   <!--Fin Cantidad a obtener -->
