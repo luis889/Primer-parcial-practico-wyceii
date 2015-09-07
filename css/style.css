@@ -15,7 +15,9 @@
     left: inherit;
 }
 
-
+.product-info{
+background-color:#fff;
+}
 
 .product-info .buy {
     background-color: #F3F3F3!important;
@@ -26,7 +28,7 @@
 }
 
 .product-info .image {
-    background-color: #FFFFFF;
+
     float: left;
    width: 100%;
     padding: 10px;

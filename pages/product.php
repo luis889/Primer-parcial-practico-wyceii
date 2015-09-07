@@ -36,7 +36,7 @@
   <!-- Fin producto imagen-->
   
   <!--producto descripción -->
-    <div class="col-md-5">
+    <div class="col-md-5" style="width: 39.66666667%;">
   <div class="buy">
   <!--Nombre del producto  -->
       <header class="product-name">
