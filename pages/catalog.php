@@ -70,7 +70,7 @@
           <div class="caption"><center>
             <h3>Tacon narrow</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$20.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$20.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			</p></center>
           </div>
@@ -82,7 +82,7 @@
           <div class="caption"><center>
             <h3>Tacon narrow</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$50.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$50.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			</p></center>
           </div>
@@ -94,7 +94,7 @@
           <div class="caption"><center>
             <h3>Tacon narrow</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$40.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$40.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			
 			
@@ -114,7 +114,7 @@
           <div class="caption"><center>
             <h3>Tacon Classic</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$30.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$30.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			</p></center>
           </div>
@@ -126,7 +126,7 @@
           <div class="caption"><center>
             <h3>Tacon Classic</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$60.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$60.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			</p></center>
           </div>
@@ -138,7 +138,7 @@
           <div class="caption"><center>
             <h3>Tacon Classic</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$10.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$10.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			
 			
@@ -158,7 +158,7 @@
           <div class="caption"><center>
             <h3>Tacon widde</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$80.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$80.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			</p></center>
           </div>
@@ -170,7 +170,7 @@
           <div class="caption"><center>
             <h3>Tacon widde</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$100.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$100.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			</p></center>
           </div>
@@ -182,7 +182,7 @@
           <div class="caption"><center>
             <h3>Tacon widde</h3>
             <p>
-			<a href="#" class="btn btn-primary" role="button">$70.00</a> 
+			<a href="product.php" class="btn btn-primary" role="button">$70.00</a> 
 			<a href="#" class="btn btn-default" role="button"><span class="glyphicon glyphicon-heart"></span></a>
 			
 			
