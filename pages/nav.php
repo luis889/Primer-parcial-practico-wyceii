@@ -20,10 +20,10 @@
 					<li class="col-sm-3">
     					<ul>
 							<li class="dropdown-header">Hombre</li>
-							<li><a href="#">Zapato casuales</a></li>
-                            <li><a href="#">Tenis</a></li>
-                            <li><a href="#">Deportivos</a></li>
-							<li><a href="#">Zapatos de vestir</a></li>
+							<li><a href="catalog.php">Zapato casuales</a></li>
+                            <li><a href="catalog.php">Tenis</a></li>
+                            <li><a href="catalog.php">Deportivos</a></li>
+							<li><a href="catalog.php">Zapatos de vestir</a></li>
 							<!--
 							<li class="divider"></li>
 							<li class="dropdown-header">Fonts</li>
@@ -35,21 +35,21 @@
 					<li class="col-sm-3">
 						<ul>
 							<li class="dropdown-header">Mujer</li>
-							<li><a href="#">Deportivos</a></li>
+							<li><a href="catalog.php">Deportivos</a></li>
 							<li class="divider"></li>
 							<li><h4>Cuidado del calzado</h4></li>
-							<li><a href="#">Tacon narrow</a></li>
-							<li><a href="#">Tacon Classic</a></li>                            
-							<li><a href="#">Tacon widde</a></li>							
+							<li><a href="catalog.php">Tacon narrow</a></li>
+							<li><a href="catalog.php">Tacon Classic</a></li>                            
+							<li><a href="catalog.php">Tacon widde</a></li>							
 						</ul>
 					</li>
 					<li class="col-sm-3">
 						<ul>
 							<li class="dropdown-header">Niño/as</li>
-                            <li><a href="#">Deportivos</a></li>
-							<li><a href="#">Sandalias</a></li>
-							<li><a href="#">Nuevos estilos</a></li>
-							<li><a href="#"> Zapatillas</a></li>                         
+                            <li><a href="catalog.php">Deportivos</a></li>
+							<li><a href="catalog.php">Sandalias</a></li>
+							<li><a href="catalog.php">Nuevos estilos</a></li>
+							<li><a href="catalog.php"> Zapatillas</a></li>                         
 						</ul>
 					</li>
                     <li class="col-sm-3">

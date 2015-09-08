@@ -132,16 +132,16 @@
                 <div class="carousel-inner">
                     <div class="item">
                         <div class="row">
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (20).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (20).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (21).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (21).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (12).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (12).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (5).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (5).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                             <div class="col-xs-3"><a href="product.php"><img src="../img/descarga.jpg" alt="Image" width="259" class="img-responsive"></a>
 
                           </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (2).jpg" alt="Image" width="259" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (2).jpg" alt="Image" width="259" class="img-responsive"></a>
 
                             </div>
                         </div>
@@ -168,16 +168,16 @@
                     <!--/item-->
                     <div class="item">
                         <div class="row">
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (23).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (23).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/descarga (3).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/descarga (3).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/descarga (2).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/descarga (2).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (19).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (19).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
                         </div>
@@ -217,16 +217,16 @@
                 <div class="carousel-inner">
                     <div class="item">
                         <div class="row">
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (15).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (15).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (11).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (11).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (24).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (24).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (25).jpg" alt="Image" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (25).jpg" alt="Image" class="img-responsive"></a>
 
                             </div>
                         </div>
@@ -235,20 +235,20 @@
                     <!--/item-->
                     <div class="item active">
                         <div class="row">
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (10).jpg" alt="Image" width="234" height="212" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (10).jpg" alt="Image" width="234" height="212" class="img-responsive"></a>
 
                       </div>
                             <div class="col-xs-3">
                               <p>&nbsp;</p>
-                              <p><a href="#"><img src="../img/images (22).jpg" alt="Image" width="233" height="181" class="img-responsive"></a></p>
+                              <p><a href="product.php"><img src="../img/images (22).jpg" alt="Image" width="233" height="181" class="img-responsive"></a></p>
                               <p>&nbsp;</p>
                           </div>
-                            <div class="col-xs-3"><a href="#"><img src="../img/images (14).jpg" alt="Image" height="207" class="img-responsive"></a>
+                            <div class="col-xs-3"><a href="product.php"><img src="../img/images (14).jpg" alt="Image" height="207" class="img-responsive"></a>
 
                       </div>
                             <div class="col-xs-3">
                               <p>&nbsp;</p>
-                              <p><a href="#"><img src="../img/images (18).jpg" alt="Image" width="227" height="213" class="img-responsive"></a></p>
+                              <p><a href="product.php"><img src="../img/images (18).jpg" alt="Image" width="227" height="213" class="img-responsive"></a></p>
                               <p>&nbsp;</p>
                             </div>
                         </div>
@@ -283,40 +283,7 @@
   
 	
 	
-	<!--<div class="container">
-	<div class="row">
-      <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <img data-src="holder.js/100%x200" alt="100%x200" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzE5IiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDMxOSAyMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MjAwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRmOTQwZDBlZTggdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxNnB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGY5NDBkMGVlOCI+PHJlY3Qgd2lkdGg9IjMxOSIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMTcuOTc2NTYyNSIgeT0iMTA3LjIiPjMxOXgyMDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=" data-holder-rendered="true" style="height: 200px; width: 100%; display: block;">
-          <div class="caption">
-            <h3>Thumbnail label</h3>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <img data-src="holder.js/100%x200" alt="100%x200" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzE5IiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDMxOSAyMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MjAwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRmOTQwY2QyZjAgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxNnB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGY5NDBjZDJmMCI+PHJlY3Qgd2lkdGg9IjMxOSIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMTcuOTc2NTYyNSIgeT0iMTA3LjIiPjMxOXgyMDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=" data-holder-rendered="true" style="height: 200px; width: 100%; display: block;">
-          <div class="caption">
-            <h3>Thumbnail label</h3>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <img data-src="holder.js/100%x200" alt="100%x200" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzE5IiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDMxOSAyMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MjAwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRmOTQwY2Q3ZmMgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxNnB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGY5NDBjZDdmYyI+PHJlY3Qgd2lkdGg9IjMxOSIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMTcuOTc2NTYyNSIgeT0iMTA3LjIiPjMxOXgyMDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=" data-holder-rendered="true" style="height: 200px; width: 100%; display: block;">
-          <div class="caption">
-            <h3>Thumbnail label</h3>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-          </div>
-        </div>
-      </div>
-	  
-    </div>-->
+	
  <br>
                      
 

@@ -13,13 +13,12 @@
  <!-- Caja producto-->
        <div class="product-info">
 		<div class="row">
-		<div class="row">
    <!--producto imagen-->
-    <div class="col-md-4">
+    <div class="col-md-4"  >
   
   <div class="image">   
   
-      <img src="../img/-text.png" title="title" alt="Muestra" id="image">
+      <img src="../img/logo.jpg"  title="title" alt="Muestra" id="image" style="width: 250px;">
 	  </img> 
 	  </center>
 	  </div>
@@ -36,18 +35,18 @@
   <!-- Fin producto imagen-->
   
   <!--producto descripción -->
-    <div class="col-md-5" style="width: 39.66666667%;">
+    <div class="col-md-5" >
   <div class="buy">
   <!--Nombre del producto  -->
       <header class="product-name">
-      <h1>Nombre del producto</h1>
+      <h1>Tacon</h1>
       </header>
   <!--Fin Nombre del producto  -->
   <!--Precio producto  -->
   
             <div class="price">
 			Precio <br>
-                <span class="price-tax">$1,099.90</span><br>
+                <span class="price-tax">$40.00</span><br>
             </div>
   <!--Fin Precio producto  -->
 			
@@ -118,8 +117,7 @@
 	    <div class="information">
 		<h4><b>Descripción</b></h4>
         <p style="text-align: justify;" >
-		Cuando queramos aplicar un estilo por ejemplo texto justificado html o centrado o a la izquierda o a la derecha 
-		el texto a todo el documento o cuerpo del mensaje, debemos hacer lo siguiente:
+		El tacón es un elemento rígido que forma parte del calzado, se encuentra unido a la parte posterior de la suela utilizando diversas técnicas de fabricación. Su función principal es actuar como soporte al talón, aunque para muchas personas puede considerarse también su estética como la función más característica, un ejemplo de ello es brindar al portador mayor altura, reducir a simple vista las dimensiones del pie, alargar las piernas e incluso mostrar estatus social o económico.
 		</p>
 		<br>
         </div> 
@@ -131,7 +129,7 @@
    <!-- Fin  producto descripción -->
     
 	<!--producto seleccion -->
-  <div class="col-md-3">
+  <div class="col-md-3" ;>
   <!--Cantidad a obtener -->
  <div class="cart">
         <div class="product-amount">Cantidad:  
@@ -172,17 +170,17 @@
 		<br>
 		<!--Etiquetas-->
 		<div class="product-tags"><div style="margin-right:3px"><h5><font><font class="">Etiquetas:</font></font></h5></div><br><br>
-            <div><a href="http://321cart.com/demo/sellya/index.php?route=product/search&amp;tag=lorem"><font><font>lorem</font></font></a></div>
-                <div><a href="http://321cart.com/demo/sellya/index.php?route=product/search&amp;tag=ipsum"><font><font>ipsum</font></font></a></div>
-                <div><a href="http://321cart.com/demo/sellya/index.php?route=product/search&amp;tag=dolor"><font><font>dolor</font></font></a></div>
-                <div><a href="http://321cart.com/demo/sellya/index.php?route=product/search&amp;tag=sit"><font><font>sentar</font></font></a></div>
-                <div><a href="http://321cart.com/demo/sellya/index.php?route=product/search&amp;tag=amet"><font><font>amet</font></font></a></div>
+            <div><a href="#"><font><font>estilos </font></font></a></div>
+                <div><a href="#"><font><font>formas</font></font></a></div>
+                <div><a href="#"><font><font>estéticos </font></font></a></div>
+                <div><a href="#"><font><font>femenina</font></font></a></div>
+                <div><a href="#"><font><font>tacón </font></font></a></div>
           </div>
 		<!--Fin Etiquetas-->
 </div>
   </div>
  <!--Fin producto seleccion -->
-  </div>
+  
 </div>
 <br>
  </div>
@@ -203,7 +201,7 @@
  <div class="col-md-10">
 <div class="reviews-right">
 <div class="review-arrow hidden-phone"></div>
-Duis eget tortor tortor. Mauris ornare lorem at sapien placerat non sollicitudin libero posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Es muy común escuchar hoy en día que los tacones son un arma muy poderosa para la mujer moderna; puesto que éstos sueles realzar la figura y estilizar el caminar.
 </div>
 </div>
 </div>
@@ -220,7 +218,7 @@ Duis eget tortor tortor. Mauris ornare lorem at sapien placerat non sollicitudin
  <div class="col-md-10">
 <div class="reviews-right">
 <div class="review-arrow hidden-phone"></div>
-Duis eget tortor tortor. Mauris ornare lorem at sapien placerat non sollicitudin libero posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+En la actualidad el uso de este elemento es cada vez mayor, ya que las mujeres lo eligen por diferentes necesidades, las cuales están a cualquier hora, día y tiempo en general.
 </div>
 </div>
 </div>
