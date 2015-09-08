@@ -2,4 +2,4 @@
 
 Link de la pagina
 
-http://wboo.esy.es/pages/start.php
+http://zapaterianadie.netai.net/pages/start.php
